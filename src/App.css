@@ -1,0 +1,9 @@
+@media screen and (max-width: 430px) {
+    h6 {
+        display: none;
+    }
+
+    Button {
+        text-align: center;
+    }
+}
